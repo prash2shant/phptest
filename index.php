@@ -1,4 +1,3 @@
 <?php
-  echo "Hello World!";
-  echo "PHP is so easy!";
-?>
+  echo "S2I Openshift Demo - 1"; 
+  ?>
