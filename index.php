@@ -1,3 +1,3 @@
 <?php
-    echo "<font size=18>S2I Openshift Demo - 4</font>";
+    echo "<font size=18>S2I Openshift Demo - 5</font>";
   ?>
