@@ -1,3 +1,3 @@
 <?php
-  echo "S2I Openshift Demo - 1"; 
+  echo "S2I Openshift Demo - 2"; 
   ?>
